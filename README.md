@@ -3,3 +3,5 @@ three
 six
 おばんです
 Feature
+
+トレーニング
